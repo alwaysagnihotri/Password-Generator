@@ -1,4 +1,6 @@
 # Password Generator
+Let's Check the website before seeing the code
+https://always-generate-secured-password.netlify.app/
 
 ## Introduction
 This project is a simple and user-friendly password generator built with HTML, CSS, and JavaScript. It allows users to generate strong and secure passwords with features like password length selection, strength indication, and easy copying.
